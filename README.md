@@ -1,5 +1,8 @@
 # Maze Runner
 
+Live Demo:
+https://sandeepbalure07-ai.github.io/maze-runner/
+
 A browser-based maze game built using HTML, CSS, and JavaScript. The game generates random mazes and tracks player score, moves, completion time, and best score.
 
 ## Features
